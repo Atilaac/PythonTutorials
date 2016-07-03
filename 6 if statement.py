@@ -6,4 +6,4 @@ if var_1 != var_2:
     print("var1 is diffirent to var2") 
 
 
-< <= > >= == !=
+#< <= > >= == !=
