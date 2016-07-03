@@ -1,3 +1,11 @@
+#hello friends
+
+print("welcome to python programming tutorials")
+
+'''
+jbhslvijevpoekv
+
+'''
 # + - * /
 
 print(10 + 5)
